@@ -1,0 +1,27 @@
+body{
+    background-color: transparent;
+    background-image: url("resources/HD-wallpapers-beautiful-pictures-21761366-1920-1200.jpg");
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+h1{
+    color: whitesmoke;
+    display: block;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 2px rgba(0,0,0,.7);
+}
+
+.shadow_white{
+    text-shadow: 2px 2px rgba(218, 255, 178, 1);
+}
+
+.text_white{
+    color: whitesmoke;
+    text-shadow: 1px 1px rgba(0,0,0,.7);
+}
+.box_shadow{
+    box-shadow:1px 15px 100px rgba(90, 98, 223, 0.62);
+}
+
+
